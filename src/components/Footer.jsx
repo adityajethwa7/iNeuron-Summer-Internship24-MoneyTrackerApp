@@ -49,13 +49,13 @@ const Footer = () => {
           <div>
             <h2 className="text-2xl font-bold mb-6">About the Developer</h2>
             <p className="text-sm mb-4">
-            My name is Aditya Jethwa, a 6th semester Information Technology Engineering student at Devang Patel Institute of Advanced Technology and Research (DEPSTAR), affiliated with Charotar University of Science and Technology (CHARUSAT) University. This past summer (2024), I had the opportunity to intern at iNeuron Intelligence Pvt Ltd. As part of my internship, I developed an Expense Tracker App using React.js and Tailwind CSS.
+            My name is Aditya Jethwa, a 6th semester Information Technology Engineering student at Devang Patel Institute of Advanced Technology and Research (DEPSTAR), affiliated with Charotar University of Science and Technology (CHARUSAT) University. This past summer (2024), I had the opportunity to intern at iNeuron Intelligence Pvt Ltd. As part of my internship, I developed an Money Tracker App using React.js and Tailwind CSS.
             </p>
             <p className="text-sm mb-4">
             I am passionate about exploring technology and creating impactful solutions. This summer (2024), I interned at iNeuron Intelligence Pvt Ltd, developing an Expense Tracker App with React.js and Tailwind CSS, enhancing my front-end development and user experience design skills.
             </p>
             <p className="text-sm mb-4">
-            The Expense Tracker App empowers users to take control of their finances by offering a convenient and insightful platform for tracking income and expenses. It fosters responsible spending habits and promotes financial awareness.
+            The Money Tracker App empowers users to take control of their finances by offering a convenient and insightful platform for tracking income and expenses. It fosters responsible spending habits and promotes financial awareness.
             </p>
             <ul className="space-y-2">
               <li>
