@@ -95,7 +95,7 @@ const Footer = () => {
                 <a href="#" className="text-sm hover:text-indigo-800 transition duration-300">Contact Us</a>
               </li>
             </ul>
-            <p className="text-sm">&copy; 2024 Expense Tracker App. All rights reserved.</p>
+            <p className="text-sm">&copy; 2024 Money Tracker App. All rights reserved.</p>
           </div>
         </div>
       </div>
