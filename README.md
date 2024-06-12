@@ -68,9 +68,9 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# iNeuron-Summer-Internship2024-ExpenseTracker
-# adityajethwa7-iNeuron-Summer-Internship2024-MoneyTrackerApp
-# adityajethwa7-iNeuron-Summer-Internship2024-MoneyTrackerApp
-# adityajethwa7-adityajethwa7-iNeuron-Summer-Internship24-MoneyTrackerApp
+
 # iNeuron-Summer-Internship24-MoneyTrackerApp
-# iNeuron-Summer-Internship24-MoneyTrackerApp
+
+My name is Aditya Jethwa, a 6th semester Information Technology Engineering student at Devang Patel Institute of Advanced Technology and Research (DEPSTAR), affiliated with Charotar University of Science and Technology (CHARUSAT) University. This past summer (2024), I had the opportunity to intern at iNeuron Intelligence Pvt Ltd. As part of my internship, I developed an Money Tracker App using React.js and Tailwind CSS.
+This project aims to empower users to gain control over their finances by providing a user-friendly platform to track their income and expenses. The application leverages the power of React.js for a dynamic and interactive experience, while Tailwind CSS ensures a clean and responsive design across various devices.
+In the following sections, I'll delve deeper into the functionalities, technical aspects, and the overall impact of this Expense Tracker App.
