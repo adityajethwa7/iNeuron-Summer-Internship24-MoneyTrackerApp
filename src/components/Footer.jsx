@@ -47,7 +47,7 @@ const Footer = () => {
 
           {/* Developer Info Section */}
           <div>
-            <h2 className="text-2xl font-bold mb-6">About the Developer</h2>
+            <h2 className="text-2xl font-bold mb-6">About Me</h2>
             <p className="text-sm mb-4">
             My name is Aditya Jethwa, a 6th semester Information Technology Engineering student at Devang Patel Institute of Advanced Technology and Research (DEPSTAR), affiliated with Charotar University of Science and Technology (CHARUSAT) University. This past summer (2024), I had the opportunity to intern at iNeuron Intelligence Pvt Ltd. As part of my internship, I developed an Money Tracker App using React.js and Tailwind CSS.
             </p>
