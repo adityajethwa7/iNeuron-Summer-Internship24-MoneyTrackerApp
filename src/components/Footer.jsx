@@ -60,7 +60,7 @@ const Footer = () => {
             <ul className="space-y-2">
               <li>
                 <a
-                  href="https://github.com/adityajethwa7/iNeuron-Summer-Internship2024-ExpenseTracker"
+                  href="https://github.com/adityajethwa7/iNeuron-Summer-Internship24-MoneyTrackerApp.git"
                   className="text-sm hover:text-indigo-800 transition duration-300"
                 >
                   GitHub Repository
